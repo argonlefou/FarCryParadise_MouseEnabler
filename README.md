@@ -4,7 +4,7 @@ This arcade game is nativelly working only with Xinput devices (no mouse support
 This small tool will install and simulate a virtual X360 Gamepad and feed the game with needed data so that a mouse can be used.  
 This is just a Proof Of Concept application, and absolutelly not meant to be a final / frontend friendly application.  
 
-<br/>
+
 ## Installation
 
 Please follow theses steps to make everything work :
@@ -12,11 +12,11 @@ Please follow theses steps to make everything work :
 **1)Microsoft X360 Controller driver**
 If you are running Windows 7 or older, you will need to install official [Microsoft X360 Controller driver](https://www.microsoft.com/accessories/fr-fr/d/xbox-360-controller-for-windows).  
 
-** 2) Virtual X360 bus driver **
+**2) Virtual X360 bus driver**
 Then, to be able to emulate some X360 controller, you will need to install ScpVbus driver.  
 As there are a few different drivers available, the safest way is to download and install [Touchmote](http://touchmote.net/) (be sure too chosse X86 or X64 according to your system). This will install a fully compatible ScpVbus driver.  
 
-<br/>
+
 ## How to use :
 
 You can use the application by either running it from the file explorer or by command line.  
@@ -30,7 +30,7 @@ You can use the application by either running it from the file explorer or by co
 
 2) Run the game. If everything is Okay you'll see a new X360 device on your Windows devices. You have to let this program running while you're playing
 
-<br/>
+
 ## Controls
 
 <table>
